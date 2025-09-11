@@ -1,6 +1,8 @@
-**Product Owner**: <Name>  
+- [x] Publish release notes
 
+Release Notes:
 ---
+**Product**: <Name>
 
 ## What is changing?
 <Business-level description of what changes are being released.>
@@ -21,5 +23,4 @@
 
 ## Who can address questions / concerns?
 <Point of contact for this release>
-
 ---
