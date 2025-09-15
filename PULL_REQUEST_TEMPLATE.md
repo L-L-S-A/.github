@@ -1,6 +1,6 @@
 - [x] Publish release notes
 
-Note: If you have marked "Publish release notes" above, the release notes in this PR will be published in Teams and Confluence once the deployment to production is completed. Please stick to the format in the template and avoid adding new markup language structures.
+**Note:** If you have marked "Publish release notes" above, the release notes in this PR will be published in Teams and Confluence once the deployment to production is completed. Please stick to the format in the template and avoid adding new markup language structures in the **release notes**.
 
 Release Notes:
 ---
