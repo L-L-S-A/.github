@@ -5,7 +5,7 @@ Release Notes:
 **Product**: <Name>
 
 **What is changing**
-- <Business-level description of what changes are being released.>
+- <Business-level/description of what changes are being released.>
 
 **Why are these changes happening?**
 - <What value are these changes bringing to the business? Why are these changes important?>
@@ -22,5 +22,5 @@ Release Notes:
 - **Mitigation Plan**: <Steps taken to reduce or eliminate risk. Include rollback steps in case of failure or unexpected issues.>
 
 **Who can address questions / concerns?**
-- <Point of contact for this release>
+- <Point of contact/email for this release>
 ---
