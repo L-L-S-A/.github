@@ -2,9 +2,11 @@
 
 **Note:** If you have marked "Publish release notes" above, the release notes in this PR will be published in Teams and Confluence once the deployment to production is completed. Please stick to the format in the template and avoid adding new markup language structures in the **release notes**.
 
+`Publish release notes` should be turned on for any deployment that introduces user-facing functionality, feature changes, or behavior updates—essentially, any release that impacts how the system is used or experienced.
+
 Release Notes:
 ---
-**Product**: <Name>
+**Product**: <Name of product point of contact>
 
 **What is changing**
 - <Business-level/description of what changes are being released.>
