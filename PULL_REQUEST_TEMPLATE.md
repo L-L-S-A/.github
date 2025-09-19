@@ -8,7 +8,7 @@ Release Notes:
 ---
 **Product**: <Name of product point of contact>
 
-**What is changing**
+**What is changing?**
 - <Business-level/description of what changes are being released.>
 
 **Why are these changes happening?**
