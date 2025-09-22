@@ -25,6 +25,6 @@ Release Notes:
 - **Risks**: <Brief description of potential risks or concerns.>  
 - **Mitigation Plan**: <Steps taken to reduce or eliminate risk. Include rollback steps in case of failure or unexpected issues.>
 
-**Who can address questions / concerns?**
+**Who can address questions/concerns?**
 - <Point of contact/email for this release>
 ---
