@@ -6,7 +6,7 @@
 
 Release Notes:
 ---
-**Product Point of Contact**: <Name of product point of contact (Beth/Angela/Stephanie/Ray)>
+**Product point of contact**: <Name of product point of contact (Beth/Angela/Stephanie/Ray)>
 
 **What is changing?**
 - <Business-level/description of what changes are being released.>
