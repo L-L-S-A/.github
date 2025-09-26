@@ -6,7 +6,7 @@
 
 Release Notes:
 ---
-**Product**: <Name of product point of contact>
+**Product Point of Contact**: <Name of product point of contact (Beth/Angela/Stephanie/Ray)>
 
 **What is changing?**
 - <Business-level/description of what changes are being released.>
@@ -26,5 +26,5 @@ Release Notes:
 - **Mitigation Plan**: <Steps taken to reduce or eliminate risk. Include rollback steps in case of failure or unexpected issues.>
 
 **Who can address questions/concerns?**
-- <Point of contact/email for this release>
+- <Engineering Point of contact name and email for this release>
 ---
