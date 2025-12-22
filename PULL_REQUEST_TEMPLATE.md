@@ -1,4 +1,4 @@
-- [x] Publish release notes
+- [ ] Publish release notes
 
 <!--
 **Note:** If you have marked `Publish release notes` above, the release notes in this PR will be published in the Product Release MS Teams channel. The release notes in this PR will be published in the AppDev Release Notifications MS Teams channel, and a Confluence page will be created regardless.
@@ -10,7 +10,7 @@ Please stick to the format in the template and avoid adding new markup language 
 
 Release Notes:
 ---
-**Product point of contact:** <!--Name of product point of contact (Beth/Angela/Stephanie/Ray)-->
+**Product point of contact:** <!--Name of product point of contact (Beth/Stephanie/Ray)-->
 
 **What is changing?**
 - <!--Business-level/description of what changes are being released.-->
