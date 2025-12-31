@@ -15,5 +15,6 @@ Release Notes:
 
 **What is changing?**
 
-**Deployment Plan / Risk Mitigation:**
+**Deployment Plan / Risk Mitigation:** (Only add when the plan changes from the standard deployment process)
+
 ---
