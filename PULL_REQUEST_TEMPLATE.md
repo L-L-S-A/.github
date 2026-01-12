@@ -10,7 +10,8 @@ Please stick to the format in the template and avoid adding new markup language 
 
 Release Notes:
 ---
-**Product point of contact:** 
+**Product point of contact:**
+
 **Development point of contact:** 
 
 **What is changing?**
