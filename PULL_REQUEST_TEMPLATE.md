@@ -19,3 +19,13 @@ Release Notes:
 **Deployment Plan / Risk Mitigation:** (Only add when the plan changes from the standard deployment process)
 
 ---
+<!-- What changed and why? -->
+
+## Reviewer Checklist
+
+Before approving, please check that:
+
+- [ ] The PR solves the ticket/requirement
+- [ ] The implementation matches the expected behavior/design
+- [ ] The code is simple, readable, and follows existing patterns
+- [ ] Tests were added or updated for the change
