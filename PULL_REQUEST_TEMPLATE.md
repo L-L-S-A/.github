@@ -21,9 +21,9 @@ Release Notes:
 ---
 <!-- What changed and why? -->
 
-## Reviewer Checklist
+## PR Checklist
 
-Before approving, please check that:
+Before requesting review, confirm that:
 
 - [ ] The PR solves the ticket/requirement
 - [ ] The implementation matches the expected behavior/design
