@@ -23,7 +23,7 @@ Release Notes:
 
 ## PR Checklist
 
-Before requesting review, confirm that:
+Before requesting a review, confirm that:
 
 - [ ] The PR solves the ticket/requirement
 - [ ] The implementation matches the expected behavior/design
